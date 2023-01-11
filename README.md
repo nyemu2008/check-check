@@ -3,9 +3,7 @@
 
 
 # Github Actions说明
-## 一、Fork此仓库
-![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
-## 二、设置账号密码
+## 一、设置账号密码
 
 添加名为——值分别为：  
 **SERVE**  ——**on/off** 你想你的serve酱开不开启通知  
@@ -14,12 +12,12 @@
 暂不支持多账号，懒得弄
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 
-## 三、启用Action
+## 二、启用Action
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
 2 修改任意文件后提交一次  
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
 
-## 四、查看运行结果
+## 三、查看运行结果
 Actions > Cloud189Checkin > build  
   
 此后，将会在每天半夜12点多会自动签到一次  
